@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:Verdana, Tahoma, sans-serif;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    margin: 40px;
+    border: 5px solid rgb(83, 141, 72);
+    border-radius: 15px;
+    padding: 15px;
+    color: white;
+    font-weight: bold;
+    background-color: rgb(126, 164, 126);
+}
+
+.cart {
+    border: 5px solid rgb(31, 129, 178);
+    padding: 15px;
+    border-radius: 15px;
+    margin: 50px 0 0 50px;
+    width: fit-content;
+}
+
+.products {
+    border: 15px solid rgb(50, 226, 144);
+    background-color: rgb(50, 226, 144);
+    border-radius: 15px;
+    padding: 1rem;
+    margin: 40px;
+}
+
+h2, h4 {
+    margin: 50px 0 0 50px;
+}
+
+h3 {
+    color: rgb(31, 129, 178);
+    font-size: 25px;
+    margin: 50px 0 0 50px;
+}
+
